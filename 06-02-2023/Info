@@ -1,0 +1,16 @@
+Topics covereed:
+0. Features of java....
+1. data types in java
+2. Implecit and Explicit conversion of variables from one data type to other
+3. Managing default values in a class: Instance variable, decleration statement, constructor
+4. Constructors: without parameter, parameterized
+5. Constructor chaining
+6 Constructor overloading
+7. 1-D Array : Decleration and addition of two array
+8. 2-D Array : addition using third array
+9. Static block
+10. Wrapper Class: Auto boxing , Unboxing.
+
+
+H.W. - Write a program to search for a particular element
+		 - Reverse the same array and output without using extra array
